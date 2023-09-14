@@ -16,6 +16,13 @@
 
 - ⚡ Fun fact **I once coded an entire website while camping in the wilderness!**
 
+ <p align="left">
+      <a href="https://github.com/TrietMinh23?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TrietMinh23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/TrietMinh23?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TrietMinh23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trietminh23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trietminh23" height="30" width="40" /></a>
